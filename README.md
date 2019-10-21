@@ -1,3 +1,3 @@
 # Accounting_title_recitation_tool
 会计科目背诵工具 accounting_title_recitation_tool  最近在学习基础会计，需要背诵会计科目，于是便顺手写了这个小软件。
-直接于python3环境打开即可
+直接在python3环境打开即可
